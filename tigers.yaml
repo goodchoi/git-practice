@@ -11,5 +11,3 @@ members:
   - George
 
 fetch: this, that
-
-add : revert test
